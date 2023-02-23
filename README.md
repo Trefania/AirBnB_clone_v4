@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-McDonald Amure - [Github](https://github.com/Certifieddonnie)
+McDonald Amure - [Github](https://github.com/Certifieddonnie) / [Twitter](https://twitter.com/CertifiedDonnie)
 Trefania Vhareta - [Github](https://github.com/Trefania) / [Twitter](https://twitter.com/@trefania_t)
 
 Second part of Airbnb: Joann Vuong
